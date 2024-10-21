@@ -2,9 +2,7 @@
 
 My name is Brent Son
 
-I am currently an undergrduate at SDSU studying Computer Engineering
-
-I am currently working on a website called TBD.com
+I am a recent graduate of SDSU with a Bachelor of Science in Computer Engineering
 
 I am currently learning full stack development
 

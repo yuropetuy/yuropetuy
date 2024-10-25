@@ -4,8 +4,6 @@ My name is Brent Son
 
 I am a recent graduate of SDSU with a Bachelor of Science in Computer Engineering
 
-I am currently learning full stack development
-
 I am looking for help with improving my technical skills and career opportunities
 
 How to reach me: brentson00@gmail.com
